@@ -1,0 +1,11 @@
+{
+  "name": "0-calcul.test.js",
+  "version": "1.0.0",
+  "description": "unuttest",
+  "main": "0-calcul.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Yaekob",
+  "license": "ISC"
+}
